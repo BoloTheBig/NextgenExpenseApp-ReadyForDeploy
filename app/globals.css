@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles globaux supplémentaires */
+body {
+  background-color: #ffffff; /* Thème clair par défaut */
+  color: #111111;
+  font-family: system-ui, sans-serif;
+}
